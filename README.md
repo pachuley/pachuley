@@ -8,8 +8,7 @@ I like creating cool stuff, working with teams of amazing people, and challengin
 
 #### How to reach me:
 
-📫 - fjsabate@gmail.com
-
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - fjsabate@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pachuley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
