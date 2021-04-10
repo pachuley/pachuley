@@ -2,7 +2,7 @@
 
 I like creating cool stuff, working with teams of amazing people, and challenging myself to learn new things.
 
-#### How to reach me:
+#### Where can you reach me?:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscosabategarrido/)
   
