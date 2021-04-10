@@ -8,8 +8,8 @@ I like creating cool stuff, working with teams of amazing people, and challengin
 
 #### How to reach me:
 
-![](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-
+<a href=”https://twitter.com/pachuley"><img src=”https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+                                                        
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pachuley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pachuley)
