@@ -1,9 +1,5 @@
 ![](https://pachuley.github.io/pachuley/images/banner.png)
 
-### Hi there I'm Francisco! :sunglasses:
-
-I'm a **Front-end Web Designer** based in Buenos Aires, Argentina!
-
 I like creating cool stuff, working with teams of amazing people, and challenging myself to learn new things.
 
 #### How to reach me:
